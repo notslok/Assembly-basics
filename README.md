@@ -6,8 +6,8 @@ Brushing up x86 and 8086 asm
  
 ## x86 execution(linux):
 
-1) nasm -f elf64 <filename.asm> -o <filename.o>     // generating object code using nasm package of linux
+1) **nasm -f elf64 <filename.asm> -o <filename.o>**     // generating object code using nasm package of linux
 
-2) ld <filename.o> -o \<filename\>                  // using GNU linker "ld" to link object file to get executable
+2) **ld <filename.o> -o \<filename\>**                  // using GNU linker "ld" to link object file to get executable
 
-3) ./\<filename\>                                   // runnig executablle to get output
+3) **./\<filename\>**                                   // runnig executablle to get output
