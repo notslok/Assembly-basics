@@ -11,3 +11,6 @@ Brushing up x86 and 8086 asm
 2) **ld <filename.o> -o \<filename\>**                  // using GNU linker "ld" to link object file to get executable
 
 3) **./\<filename\>**                                   // runnig executablle to get output
+
+
+*...off to linux kernel programming!*
